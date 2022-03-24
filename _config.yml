@@ -5,8 +5,8 @@ header-img: img/post-bg-desk.jpg
 email: chenproton@gmail.com
 description: "Every failure is leading towards success."
 keyword: "Proton, Proton Blog, Proton的博客, chenproton, 陈云龙的博客, 陈云龙"
-url: "http://chenproton.github.io"          # your host, for absolute URL
-baseurl: "/blog"      # for example, '/blog' if your blog hosted on 'host/blog'
+url: "http://chenproton.github.io/blog"          # your host, for absolute URL
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/chenproton/blog.git" # you code repository
 
 # Sidebar settings
